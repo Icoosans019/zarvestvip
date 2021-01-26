@@ -23,6 +23,6 @@ RUN
 
 git clone https://github.com/John-XD/zarvestvip
 
-cd John-XD
+cd zarvestvip
 
 python2 zarvestvip.py
