@@ -25,4 +25,4 @@ git clone https://github.com/John-XD/zarvestvip
 
 cd John-XD
 
-python2 zarvestvip
+python2 zarvestvip.py
